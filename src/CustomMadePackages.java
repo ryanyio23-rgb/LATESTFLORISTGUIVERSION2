@@ -19,6 +19,7 @@ public class CustomMadePackages extends FlowerPackages {
         } else {
             price = 0.0;
         }
+        price += 10.0;
     }
 
     public int getFlowerCount() {
